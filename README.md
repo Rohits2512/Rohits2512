@@ -2,7 +2,8 @@
 
 Dedicated to becoming a Software Developer (front-end or back-end) as a Team player in the IT sector to prove my technical skills and utilize my knowledge and intelligence in the growth of the organization.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohits2512)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Rohit2512&show_icons=true&theme=radical"/>
 
 
 
