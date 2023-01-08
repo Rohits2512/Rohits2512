@@ -1,11 +1,12 @@
-# Hi there, I'm Rohit! 👋
+# Hi👋, I'm Rohit! 
+
+Dedicated to becoming a Software Developer (front-end or back-end) as a Team player in the IT sector to prove my technical skills and utilize my knowledge and intelligence in the growth of the organization.
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Rohit2512&show_icons=true&theme=radical"/>
 
 <img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit2512&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
 
 ## Skills
-
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 <img  align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
