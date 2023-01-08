@@ -2,7 +2,9 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Rohit2512&show_icons=true&theme=radical"/>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit2512&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+<img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit2512&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+
+## Skills
 
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
@@ -16,7 +18,15 @@
 
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
+## Social 
+<a href="https://www.linkedin.com/in/rohit-solanki-44b3561b7/">
+<img width="25px" height="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
+</a>
 
+## connect with me:
+
+<div><img width="15px" height="15px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbkpZg-xIVCBf_H149Hdl_hdN4QBb42EtZnA&usqp=CAU"/>  rohit.2512solanki@gmail.com<p></P></div>
+<div><img width="15px" height="15px" src="https://png.pngtree.com/png-vector/20191011/ourmid/pngtree-phone-icon-png-image_1817554.jpg"/>  8602233941<p></P></div>
 
 
 
